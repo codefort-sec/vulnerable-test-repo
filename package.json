@@ -1,6 +1,6 @@
 {
   "name": "sample-microservice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demonstration repository protected by CodeFort zero-trust PR scanner",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,7 @@
     "test": "echo \"Running test suite...\" && exit 0"
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "reqeusts": "^1.0.0"
   }
 }
